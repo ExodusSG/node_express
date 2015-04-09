@@ -8,3 +8,5 @@ The repo was created in Exodus in the following way:
 In Eclipse the changes was pushed to remote repo (with the the committed changes in local master), in the following way
 	Team -> Push Branch 'master' 
 	
+
+Another test
