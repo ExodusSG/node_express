@@ -1,5 +1,6 @@
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin youruser@yourserver.com:/path/to/my_project.git
-git push origin master
+The repo was created in Exodus in the following way:
+	git init
+	git add .
+	git commit -m "Initial commit"
+	git remote add origin youruser@yourserver.com:/path/to/my_project.git
+	git push origin master
