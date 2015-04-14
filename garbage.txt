@@ -11,3 +11,4 @@ In Eclipse the changes was pushed to remote repo (with the the committed changes
 
 Another test
 another test... vm time not sync... causes some problem when check-in to remote repo
+test
