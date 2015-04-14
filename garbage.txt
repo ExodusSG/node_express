@@ -16,12 +16,3 @@ modified from another repo
 
 writing something
 
-<<<<<<< HEAD
-=======
-changes1
-changes2
-changes3
-changes4
-changes5
-changes6
->>>>>>> branch 'master' of https://github.com/ExodusSG/node_express.git
