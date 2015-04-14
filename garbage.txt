@@ -17,4 +17,5 @@ modified from another repo
 writing something
 
 damn you.. repo1.. you removed my changes
+repo1 to repo2 ... git merge sucks... 
 repo2 to repo1: making more changes .. 
