@@ -16,11 +16,7 @@ modified from another repo
 
 writing something
 
-modified in 2
-writing something
-modified in 1
-
-changes in 2
-modified in 1
-
-changes in 1
+changes1
+changes2
+changes3
+changes4
