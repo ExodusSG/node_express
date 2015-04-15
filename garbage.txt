@@ -16,3 +16,4 @@ Creating branch
 - choose 'Switch To' -> 'New Branch' -> enter name for the branch 
 
 make changes again
+make another changes and commit
