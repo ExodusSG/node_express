@@ -16,4 +16,3 @@ Creating branch
 - choose 'Switch To' -> 'New Branch' -> enter name for the branch 
 
 
-1
