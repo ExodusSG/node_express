@@ -22,7 +22,7 @@ router.get('/userlist', function(req, res){
   collection.find().toArray(function(err, items){
     items.forEach(function(entry) {
       entry.email = decrypt(entry.email);
-      console.log(entry.email);
+      //console.log(entry.email);
     });
     res.json(items);
   });
