@@ -4,10 +4,4 @@ this is master branch... of repo2
 sideway branch.. attempt to merge/rebase with origin master
 change further
 
-1
-2
-3
-4
-
-making changes in master branch
-working on sidewalk now for sure..
+changes
