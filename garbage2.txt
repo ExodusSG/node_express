@@ -4,7 +4,5 @@ this is master branch... of repo2
 sideway branch.. attempt to merge/rebase with origin master
 change further
 
-staged changes.
-staging changes
-staging changes 2
-more changes
+1
+
